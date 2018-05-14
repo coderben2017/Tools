@@ -9,6 +9,7 @@
 3. [Nginx](http://blog.csdn.net/qq846294282/article/details/70217469)
 4. [RegExp](https://github.com/coderben2017/JS-Regular-expression-awesome)
 5. [.gitignore](https://github.com/coderben2017/Tools/blob/master/.gitignore)
+6. [Angular.js + ui-router + Bootstrap + ng-grid](https://github.com/coderben2017/book-store)
 
 ### Latest Update
-- 2018/01/16 12:58
+- 2018/05/14
