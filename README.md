@@ -1,5 +1,5 @@
 # Tools
-All is for better work
+all is for better work
 
 ### Includes
 1. [Git](https://github.com/coderben2017/Tools/blob/master/git.md)
