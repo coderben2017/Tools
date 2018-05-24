@@ -9,7 +9,7 @@ all is for better work
 5. [.gitignore](https://github.com/coderben2017/Tools/blob/master/.gitignore)
 6. [Demo with Bootstrap](https://github.com/coderben2017/Bootstrap-demo)
 7. [Demo with Angular.js, ui-router, Bootstrap and ng-grid](https://github.com/coderben2017/book-store)
-8. [Demo with Node.js and MongoDB](https://github.com/coderben2017/demo-node-mongo)
+8. [Demo with Node.js and Mysql](https://github.com/coderben2017/demo-node-mysql)
 
 ### Latest Update
 - 2018/05/14
