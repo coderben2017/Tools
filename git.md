@@ -1,12 +1,14 @@
 # Git —— The Super Useful Version Control System
 
 ### How To Update and Download Files Between Local Disk And Github By Git ?
+
 #### often-used commands
 1. git init   //初始化本地仓库
 2. git add .   //添加当前目录所有文件到git缓存区
 3. git commit -m "some notes"   //提交，引号里填写注释
 4. git remote add origin https://github.com/coderben2017/Tasks-of-IFE   //关联github远程仓库
-5. git push -u origin master -f   //本地仓库上传到远程仓库（-f 执行强制上传，会覆盖远程目录内容）
+5. git push -u origin master   //本地仓库上传到远程仓库（-u表示当前为默认Git分支，如果失败可以加-f表示强制上传，覆盖远程仓库内容）
+
 #### all commands
 - git init   //初始化仓库
 - git add readme.txt   //添加文件到git缓存区
@@ -33,5 +35,5 @@
 - git log --graph   //命令可以看到分支合并图
 
 ### Update Information
-- 2017-05-16 00:33
-- by Ben
+- 2018-09-06 16:00
+- by CoderBen
