@@ -11,6 +11,4 @@ all is for better work
 7. [Demo with Angular.js, ui-router, Bootstrap and ng-grid](https://github.com/coderben2017/book-store)
 8. [Demo with Node.js and Mysql](https://github.com/coderben2017/demo-node-mysql)
 9. [Less](https://github.com/coderben2017/Less-Notes/blob/master/css/style.less)
-
-### Latest Update
-- 2018/09/06 16:02
+10. [JavaScript Skills](JavaScrit-skills.md)
