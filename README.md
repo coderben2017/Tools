@@ -9,6 +9,6 @@ all is for better work
 5. [.gitignore](.gitignore)
 6. [Demo with Bootstrap](https://github.com/coderben2017/Bootstrap-demo)
 7. [Demo with Angular.js, ui-router, Bootstrap and ng-grid](https://github.com/coderben2017/book-store)
-8. [Demo with Node.js and Mysql](https://github.com/coderben2017/demo-node-mysql)
+8. [Demo with Node.js and MySQL](https://github.com/coderben2017/blog/blob/master/server/rest/admin/controllers/users.js)
 9. [Less](https://github.com/coderben2017/Less-Notes/blob/master/css/style.less)
 10. [JavaScript Skills](JavaScript-skills.md)
