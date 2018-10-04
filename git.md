@@ -6,6 +6,9 @@
 1. git init   //初始化本地仓库
 2. git add .   //添加当前目录所有文件到git缓存区
 3. git commit -m "some notes"   //提交，引号里填写注释
+    - 如果本地Git刚安装，或者使用了另一台电脑，则需要在commit之前配置git user信息，示例如下：
+    - git config --global user.email example@126.com
+    - git config --global user.name zhangsan
 4. git remote add origin https://github.com/coderben2017/Tasks-of-IFE   //关联github远程仓库
 5. git push -u origin master   //本地仓库上传到远程仓库（-u表示当前为默认Git分支，如果失败可以加-f表示强制上传，覆盖远程仓库内容）
 
