@@ -1,4 +1,4 @@
-# Tools Often Used In Daily Work
+# Tools Commonly Used In Daily Work
 
 ### Technology
 
