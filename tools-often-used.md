@@ -38,6 +38,14 @@
     - Angular
     - Node.js
 
+### Environment
+
+- Node.js
+- TypeScript
+- AngularCli
+- JVM
+- MySQL
+- WampServer : PHP + MySQL + Apache
 
 ### Software Tools
 
