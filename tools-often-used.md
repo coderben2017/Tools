@@ -12,6 +12,8 @@
     - FullCalendar
 - Web Back End
     - Node.js (Express)
+        - body-parser
+        - connect-history-api-fallback
     - Java (SpringBoot)
 - DataBase
     - MySQL
@@ -39,7 +41,7 @@
 ### Software Tools
 
 - Chrome
-    - with Color Zilla(like MarkMan), tampermonkey(油猴), FireShot, 新浪微博图床
+    - with Color Zilla(like MarkMan), tampermonkey(油猴), 谷歌访问助手, 划词翻译, Octotree(GitHub project tree), FireShot, 新浪微博图床
 - Post Man
     - test APIs
 - Git Bash
