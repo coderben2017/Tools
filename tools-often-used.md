@@ -51,7 +51,7 @@
 - Navicat for MySQL
     - donot write sql with its help
 - SQL Developer
-    - oracle database management tool
+    - for Oracle DataBase
 - Mark Man
     - cut image to get color, width, height, font-size and so on
     
