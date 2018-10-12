@@ -25,6 +25,7 @@
     - C/C++
 - ItelliJ IDEA
     - Java
+    - SVN
     - Vue.js
 - Sublime Text3
     - JavaScript
