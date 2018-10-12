@@ -2,7 +2,7 @@
 
 ### Technology
 
-- Web Front End (SPA)
+- Web Front End
     - HTML + CSS + JavaScript / jQuery + Bootstrap
     - Angular + Bootstrap
     - Vue.js + vue-router + iView + Axios
