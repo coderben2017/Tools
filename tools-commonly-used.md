@@ -17,7 +17,9 @@
     - Java (SpringBoot)
 - DataBase
     - MySQL
-
+- Web Server
+    - Nginx
+    - Xshell
 
 ### IDE
 
