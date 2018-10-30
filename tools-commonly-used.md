@@ -22,6 +22,7 @@
 - Web Server
     - Nginx
     - Xshell
+    - pm2
 
 ### IDE
 
