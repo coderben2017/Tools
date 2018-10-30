@@ -3,10 +3,12 @@
 ### Technology
 
 - Web Front End
-    - HTML + CSS + JavaScript / jQuery + Bootstrap
+    - HTML + CSS/Bootstrap + JavaScript/jQuery
+        - twbsPagination
+        - fullcalendar
     - Angular + Bootstrap
     - Vue.js + vue-router + iView + Axios
-    - React + react-router + AntDesign + Axios
+    - React.js + react-router + AntDesign + Axios
 - Visualization
     - Echarts
     - FullCalendar
