@@ -30,13 +30,15 @@
 - git push origin master   //上传
 - git pull origin master   //下载更新
 - git clone git@github.com:michaelliao/gitskills.git   //克隆仓库
-- git branch   //查看所有分支
+- git branch    //查看本地所有分支
+- git branch -a //查看本地+远程所有分支
 - git branch dev   //创建一个名为dev的分支
 - git checkout dev   //将当前本地库切换到dev分支
+- git checkout -b dev //创建一个名为dev的分支，并且将当前本地库切换到dev分支
 - git merge dev   //将dev分支与master分支合并
 - git branch -d dev   //将dev分支删除
 - git log --graph   //命令可以看到分支合并图
 
 ### Update Information
-- 2018-10-04 08:48
+- 2018-12-14 16:08
 - by CoderBen
