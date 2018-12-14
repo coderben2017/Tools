@@ -20,9 +20,11 @@
 - git status   //查看本地仓库的状态
 - git log   //查看仓库日志
 - git log --pretty=oneline   //查看日志并且日志一行显示
-- git reset --hard HEAD  readMe.txt   //版本回退，回到最近一次提交的版本，^是上一次，~100前100次
-- git reset --hard HEAD^ readMe.txt
-- git reset --hard HEAD~100 readMe.txt
+- git reset HEAD        // 用于撤销上一次git add操作
+- git reset <commit-id> // 用于撤销某一次git commit操作（回退本地版本库到某一次commit）
+- git reset HEAD  readMe.txt   //撤销某一文件的git add操作，^是上一次，~100前100次
+- git reset HEAD^ readMe.txt
+- git reset HEAD~100 readMe.txt
 - git reflog   //查看仓库日志（比log全，比如版本回退时造成的数据丢失)
 - git reset --hard 3628164   //版本回退到某个id对应的版本
 - git remote add origin https://github/repo-name.git   //关联远程仓库
@@ -40,5 +42,5 @@
 - git log --graph   //命令可以看到分支合并图
 
 ### Update Information
-- 2018-12-14 16:08
+- 2018-12-14 9:55
 - by CoderBen
