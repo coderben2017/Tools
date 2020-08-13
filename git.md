@@ -40,6 +40,7 @@
 - git merge dev   //将dev分支与master分支合并
 - git branch -d dev   //将dev分支删除
 - git log --graph   //命令可以看到分支合并图
+- git checkout -b <本地分支名> origin/<远程分支名>    // 拉取远程分支并建立本地分支，同时建立映射关系
 
 ### Update Information
 - 2018-12-14 9:55
