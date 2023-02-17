@@ -1,5 +1,5 @@
 # Tools
-all is for better work
+It's all about working more efficiently.
 
 ### Includes
 1. [Git](git.md)
@@ -11,5 +11,5 @@ all is for better work
 7. [Demo with Angular.js, ui-router, Bootstrap and ng-grid](https://github.com/coderben2017/book-store)
 8. [Demo with Node.js and MySQL](https://github.com/coderben2017/blog/blob/master/server/rest/admin/controllers/users.js)
 9. [Less](https://github.com/coderben2017/Less-Notes/blob/master/css/style.less)
-10. [JavaScript Skills](JavaScript-skills.md)
+10. [JavaScript Skills](js-utils.md)
 11. [常用技术栈和工具梳理汇总](tools-commonly-used.md)
