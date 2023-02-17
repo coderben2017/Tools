@@ -12,6 +12,14 @@ function deepClone(target) {
     return target
   }
   
+  if (target.constructor === Function) {
+    return new Function(`return ${target.toString()}`)()
+  }
+  
+  if (target.constructor === RegExp || target.constructor === Date) {
+    return new target.constructor(target)
+  }
+
   let result
   if (Array.isArray(target)) {
     result = []
